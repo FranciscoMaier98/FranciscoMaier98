@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 Gosto de trabalhar com Desenvolvimento Web (front-end e back-end)
-- 📖 Estudos: Estudo no Instituto Federal do Rio Grande do Sul (IFRS) na cidade Feliz. Estou cursando o sexto semestre de Análise e Desenvolvimento de Software.
-- 🌱 Atualmente estou procurando aprender mais sobre NodeJS e Angular
+- 📖 Estudos: Conslui meus estudos em Análise e Desenvolvimento de Software no Instituto Federal do Rio Grande do Sul (IFRS) na cidade Feliz.
+- 🌱 Atualmente estou procurando fazer uma pós em Segurança da Informação
 - 📫 Contate-me no e-mail: chicosm@outlook.com, ou também:: fsalomon1998@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/FranciscoMaier98">
