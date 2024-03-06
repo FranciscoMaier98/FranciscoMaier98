@@ -2,7 +2,7 @@
 
 - 🔭 Gosto de trabalhar com Desenvolvimento Web (front-end e back-end)
 - 📖 Estudos: Conslui meus estudos em Análise e Desenvolvimento de Software no Instituto Federal do Rio Grande do Sul (IFRS) na cidade Feliz.
-- 🌱 Atualmente estou procurando fazer uma pós em Segurança da Informação
+- 🌱 Atualmente estou fazendo pós-graduação em Engenharia de Software pela Unisinos.
 - 📫 Contate-me no e-mail: chicosm@outlook.com, ou também:: fsalomon1998@gmail.com
 
 <div align="center">
